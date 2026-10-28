@@ -5,10 +5,7 @@
 # AirRegime.AI
 ### Discovering Delhi's air pollution regimes with unsupervised machine learning
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app)
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-clustering-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-red)
+
 
 </div>
 
