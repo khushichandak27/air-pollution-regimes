@@ -22,7 +22,7 @@ Delhi's air quality does not just get "better" or "worse". It moves through recu
 
 I combined daily CPCB pollution data for Delhi with Open-Meteo weather data, engineered features, and compared three clustering algorithms: **KMeans, HDBSCAN and Gaussian Mixture**. The results are shown in an interactive Streamlit dashboard.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app
+**Live app:** [https://YOUR-APP-NAME.streamlit.app](https://air-pollution-regimes.streamlit.app/)
 
 ## Key findings
 
@@ -111,6 +111,6 @@ Python, pandas, NumPy, scikit-learn (KMeans, HDBSCAN, Gaussian Mixture, PCA), Pl
 
 ## Author
 
-**YOUR NAME**, [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) | [GitHub](https://github.com/YOUR-USERNAME)
+**YOUR NAME**, [LinkedIn](https://www.linkedin.com/in/khushiichandak/) | [GitHub](https://github.com/khushichandak27)
 
 *Air quality data: CPCB via Kaggle. Weather data: Open-Meteo. Please check each source's licence before reusing the data.*
