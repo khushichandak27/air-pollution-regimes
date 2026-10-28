@@ -1,0 +1,5 @@
+method,clusters,noise_%,largest_cluster_%,silhouette,davies_bouldin,stability
+KMeans k=5 (13 features),5,0.0,25.0,0.203,1.585,0.974
+KMeans k=5 (no SO2),5,0.0,24.0,0.208,1.567,0.9
+GMM k=5 (no SO2),5,0.0,33.0,0.083,2.847,0.62
+HDBSCAN mcs20/ms10,3,74.7,79.8,0.107,1.359,
