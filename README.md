@@ -21,6 +21,20 @@ I combined daily CPCB pollution data for Delhi with Open-Meteo weather data, eng
 
 **Live app:** [https://air-pollution-regimes.streamlit.app](https://air-pollution-regimes.streamlit.app/)
 
+## Screenshots
+
+All screenshots show **KMeans (k=5)**, the final model.
+
+### 3D Cluster Visualization
+![3D Cluster Visualization: KMeans](docs/3d_kmeans.png)
+
+### 2D View and Timeline
+![2D View and Timeline: KMeans](docs/2d_timeline_kmeans.png)
+
+### Air Quality Map of Indian Cities
+![Air Quality Map of Indian Cities](docs/air_quality_map.png)
+
+
 ## Key findings
 
 | Method | Regimes | Noise | Silhouette | Stability (ARI) |
