@@ -1,13 +1,5 @@
-<div align="center">
-
-<img src="assets/logo.png" alt="AirRegime.AI logo" width="170">
-
-# AirRegime.AI
+# <img src="assets/logo.png" alt="AirRegime.AI logo" width="48"> AirRegime.AI
 ### Discovering Delhi's air pollution regimes with unsupervised machine learning
-
-
-
-</div>
 
 ---
 
@@ -19,7 +11,7 @@ Delhi's air quality does not just get "better" or "worse". It moves through recu
 
 I combined daily CPCB pollution data for Delhi with Open-Meteo weather data, engineered features, and compared three clustering algorithms: **KMeans, HDBSCAN and Gaussian Mixture**. The results are shown in an interactive Streamlit dashboard.
 
-**Live app:** [https://air-pollution-regimes.streamlit.app](https://air-pollution-regimes.streamlit.app/)
+** 🔗Live app:** [https://air-pollution-regimes.streamlit.app](https://air-pollution-regimes.streamlit.app/)
 
 ## Screenshots
 
